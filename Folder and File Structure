@@ -1,0 +1,9 @@
+etl-error-handling-mechanism/
+│
+├── README.md
+├── error_handling_examples/
+│   ├── simple_try_except.py
+│   ├── try_except_finally.py
+│   ├── custom_exception.py
+└── logs/
+    └── (optional log files if you add logging to error handling)
